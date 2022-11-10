@@ -9,7 +9,7 @@ const PropertyList = () => {
           src={require("../../All_Images/hotel.jpeg")}
           alt="notFound"
           className="pListImg"
-        />
+        /> 
         <div className="pListTitles">
           <h1>Hotels</h1>
           <h2>233 Hotel</h2>
