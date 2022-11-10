@@ -12,6 +12,12 @@
     border-radius: 10px;
     overflow: hidden;
     cursor: pointer;
+    transition: transform 500ms;
+}
+
+.pListItem:hover{
+    transform: scale(1.2);
+    z-index: 1;
 }
 
 .pListImg{

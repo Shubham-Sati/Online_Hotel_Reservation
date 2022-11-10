@@ -12,7 +12,7 @@ const Featured = () => {
         />
         <div className="featuredTitles">
           <h1>Dublin</h1>
-          <h2>123 property</h2>
+          <h2>123 property</h2> 
         </div>
       </div>
       <div className="featuredItem">
